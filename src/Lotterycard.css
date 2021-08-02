@@ -1,0 +1,36 @@
+.lotto-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: azure;
+  margin: 20px;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.lotto-title {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.lotto-gen-btn {
+  color: whitesmoke;
+  background-color: #2b6777;
+  font-size: 18px;
+  margin: 40px;
+  padding: 15px;
+  border-radius: 15px;
+  border-width: 0px;
+  width: 120px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.lotto-balls {
+  margin-top: 10px;
+}
